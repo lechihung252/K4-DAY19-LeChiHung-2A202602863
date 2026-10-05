@@ -1,6 +1,6 @@
 # Thiết kế Ontology — Day 19
 
-**Họ tên:** …  **MSSV:** …
+**Họ tên:** Lê Chí Hùng  **MSSV:** 2A202602863
 
 **Lựa chọn** (đánh dấu một):
 - [ ] Dùng ontology gợi ý (có thể chỉnh nhỏ)
